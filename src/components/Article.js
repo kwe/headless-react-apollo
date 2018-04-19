@@ -5,7 +5,7 @@ class Article extends Component {
   render() {
     return (
       <div>
-        <div className="Article"> {this.props.article.title} </div>{" "}
+        <div className="rrticle"> {this.props.article.title} </div>{" "}
       </div>
     );
   }
