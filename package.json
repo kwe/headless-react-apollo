@@ -5,15 +5,15 @@
   "private": true,
   "dependencies": {
     "apollo-client-preset": "^1.0.8",
-    "babel-core": "^6.26.0",
-    "graphql": "^0.13.2",
-    "graphql-tag": "^2.8.0",
-    "react": "^16.2.0",
-    "react-apollo": "^2.1.1",
-    "react-dom": "^16.3.2",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.1"
+    "babel-core": "^6.26.3",
+    "graphql": "^14.4.2",
+    "graphql-tag": "^2.10.1",
+    "react": "^16.8.6",
+    "react-apollo": "^3.0.0",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,12 +23,12 @@
     "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "devDependencies": {
-    "@storybook/react": "^3.4.2",
-    "babel-eslint": "^8.2.3",
-    "eslint": "^4.9.0",
-    "eslint-plugin-import": "^2.11.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.4.0",
-    "prettier-eslint": "^8.8.1"
+    "@storybook/react": "^5.1.10",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier-eslint": "^9.0.0"
   }
 }
